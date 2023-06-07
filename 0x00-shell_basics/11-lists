@@ -1,0 +1,9 @@
+ls -la
+
+# Change to the parent directory and list files
+cd ..
+ls -la
+
+# Change to the /boot directory and list files
+cd /boot
+ls -la
