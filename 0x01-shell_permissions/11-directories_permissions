@@ -1,2 +1,2 @@
 #!/bin/bash
-chmid -R ugo+X
+chmid -R ugo+X .
